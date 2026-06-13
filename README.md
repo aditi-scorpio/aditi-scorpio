@@ -1,5 +1,5 @@
 # 💫 Hey, I'm Aditi 👋
-<br>👩🏻‍💻 I'm a full-stack developer passionate about web development, AI, and much more. <br>📚 When not coding, I'm lost in books and found within the stories <br>🚀 Debugging life one line at a time 
+<br>👩🏻‍💻 I'm a Senior Angular Developer exploring full-stack with Spring Boot. I'm passionate about web development, AI, and much more. <br>📚 When not coding, I'm lost in books and found within the stories <br>🚀 Debugging life one line at a time 
 
 
 ## 🌐 Socials:
